@@ -1,0 +1,28 @@
+body::before{
+    display: block;
+    content: '';
+    height: 80px;
+}
+
+.card-body img{
+    width: 150px;
+    height: 150px;
+}
+
+
+
+.the-bread{
+    height: 500px;
+}
+
+
+@media (min-width:768px){
+    .news-input{
+        width: 50%;
+    }
+}
+
+
+    
+
+
